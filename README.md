@@ -18,7 +18,7 @@ April 2024 - April 2024
 <br>
 <br>
 
-### 🛠️ Data Analysis Steps
+## 🛠️ Data Analysis Steps
 1. Initial Data Exploration: <br> 
    Displaying the first and last few records to get an overview of the data.<br>
    Determining the dataset's shape, including the number of rows and columns.
@@ -45,7 +45,7 @@ April 2024 - April 2024
 <br>
 
 
-### 💼 Skills Utilized
+## 💼 Skills Utilized
 + pandas 🐼 <br>
 + Matplotlib 📊 <br>
 + Data Visualization 🎨 <br>
@@ -54,17 +54,17 @@ April 2024 - April 2024
 <br>
 
 
-### 📥 Getting Started
+## 📥 Getting Started
 1. Clone the repository: <pre> git clone https://github.com/omrajeshchitmalwar/EDA-of-Heart-Disease.git
 2. Navigate to the project directory: <pre> cd EDA-of-Heart-Disease
 3. Install the required libraries: <pre> pip install -r requirements.txt
 
 <br>
 
-### 🌟 Acknowledgements
+## 🌟 Acknowledgements
 Special thanks to the data providers and the Python community for their support and documentation.
 
 <br>
 
-### 📬 Contact
+## 📬 Contact
 For any questions or feedback, please reach out to omrajeshchitmalwar@gmail.com.
