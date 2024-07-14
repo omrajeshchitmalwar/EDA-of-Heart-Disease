@@ -12,6 +12,12 @@ Made with ❤️ by <b>Om Rajesh Chitmalwar<b>
 <br>
 <br>
 
+## 🗓️ Project Duration
+April 2024 - April 2024 
+
+<br>
+<br>
+
 ### 🛠️ Data Analysis Steps
 1. Initial Data Exploration: <br> 
    Displaying the first and last few records to get an overview of the data.<br>
